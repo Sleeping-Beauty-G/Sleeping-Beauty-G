@@ -17,39 +17,36 @@
 ### 🛠️ Skills
 
 #### 💻 Languages
-- 🐍 **Python** — Intermediate  
-- 💾 **CSV / JSON / XML** — Beginner  
+- 🐍 **Python** 
+- 💾 **CSV / JSON / XML**  
 
 #### ⚙️ Frameworks & Tools
-- 🧠 **Machine Learning** — Beginner  
-- 📊 **Data Science** — Beginner  
-- 🌐 **Django** — Beginner  
-- 🌱 **Flask** *(in progress)*  
-- 🔁 **Git & GitHub** — Intermediate  
-- 🧩 **OOP (Object-Oriented Programming)** — Intermediate  
-- 🔌 **Working with APIs** — Beginner  
+- 🧠 **Machine Learning** 
+- 📊 **Data Science**  
+- 🌐 **Django** 
+- 🔁 **Git & GitHub**   
+- 🧩 **OOP (Object-Oriented Programming)**  
+- 🔌 **Working with APIs**   
 
 #### 🧰 IDEs & Editors
-- 🧠 **VS Code** — Intermediate  
-- 🐞 **PyCharm** — Intermediate  
+- 🧠 **VS Code** 
+- 🐞 **PyCharm**  
 
 ---
 
 ### 🎓 Currently Learning
 
-- 🧠 Deepening **Django** & **Flask**  
-  *(as part of the Netology Advanced Python Developer course)*  
+- 🧠 **Django** & **Flask**  
 - 🗄️ **SQL & Databases**  
-  *(Module: "Databases for Developers", Netology)*  
 - 🤖 **Machine Learning Basics**  
-  *(planned in upcoming Netology modules)*  
+   
 
 ---
 
 ### 📚 Education
 
 - 🎓 **Advanced Python Developer Program** — [Netology](https://netology.ru/profile/program/pd-130/schedule/all)  
-  *(Duration: 12 months · Currently on Module 5: SQL & Databases)*
+  
 
 ---
 
