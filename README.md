@@ -13,6 +13,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%F0%9F%90%8D+%7C+Django+%F0%9F%8C%90+%7C+Flask+%7C+Data+Science+%7C+SQL+%F0%9F%93%88" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHA3N3NhOTBoNTQzOHZ6anA1ZnBsOXgzd3hsNGl4YjlnY3Z5bGhjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/765ccrAiB0g9z6EApL/giphy.gif" width="150"/>
+</p>
+
+
 ---
 ### 🛠️ Skills & Technologies
 
