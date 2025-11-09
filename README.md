@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBlcHUzcmlhc3UzdWk3NDZvZ3hocGRraXVmcHd2d2hxMzJwOWQzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Z5xa7Y9RWlXfaFb5o/giphy.gif" width="600"/>
 </p>
+
 
 <h1 align="center">Hi there, I'm Gunay 👋</h1>
 
