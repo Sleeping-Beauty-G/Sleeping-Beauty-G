@@ -83,6 +83,6 @@ See the full list here 👉 [Gunay-projects](https://github.com/Sleeping-Beauty-
 
 ### 📫 Contacts
 
-- Telegram: [@gunayfatali](https://t.me/gunayfatali)  
+- Telegram: [@gunaymed](https://t.me/gunaymed)  
 - Email: (gunay.medjid@outlook.com) 
 - [Netology Course Page](https://netology.ru/profile/program/pd-130/schedule/all)
