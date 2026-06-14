@@ -80,9 +80,4 @@ See the full list here 👉 [Gunay-projects](https://github.com/Sleeping-Beauty-
 - [Python — Complete Course: Python, Django, Data Science & ML (Udemy)](https://www.udemy.com/certificate/UC-cc6e5cbe-4ffc-409f-baae-4fe930f5ed6c/)
 
 ---
-
-### 📫 Contacts
-
-- Telegram: [@gunaymed](https://t.me/gunaymed)  
-- Email: (gunay.medjid@outlook.com) 
 - [Netology Course Page](https://netology.ru/profile/program/pd-130/schedule/all)
